@@ -26,20 +26,20 @@ This project is made to complete an assignment on Data Acquisition. The project 
 
 **Block & Wiring Diagram:**
 
-**![Block_Diagram.jpeg](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/Images/Block_diagram.jpeg)**
+**![Block_Diagram.jpeg](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/blob/main/Images/Block_Diagram.jpeg)**
 
-**![Wiring_Diagram.jpeg](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/Images/Wiring_Diagram.jpeg)**
+**![Wiring_Diagram.jpeg](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/blob/main/Images/Wiring_Diagram.jpeg)**
 
 **Finished Product:**
 
-**![Product_Image_1.jpeg](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/Images/Product_Image_1.jpeg)**
+**![Product_Image_1.jpeg](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/blob/main/Images/Product_Image_1.jpeg)**
 
-**![Product_Image_2.jpeg](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/Images/Product_Image_2.jpeg.jpeg)**
+**![Product_Image_2.jpeg](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/blob/main/Images/Product_Image_12.jpeg)**
 
 **LabVIEW Results:**
 
-**![LabView_Interface.jpeg](LabView_Interface.jpeg)**
+**![LabView_Interface.jpeg](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/blob/main/Images/LabView_Interface.jpeg)**
 
-**![PPM_GKU.png](PPM_GKU.png)![TEMP_GKU.png](TEMP_GKU.png)**
+**![PPM_GKU.png](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/blob/main/Images/PPM_GKU.png)![TEMP_GKU.png](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/blob/main/Images/TEMP_GKU.png)**
 
-**![PPM_GD_P.png](PPM_GD_P.png)![TEMP_GD_P.png](TEMP_GD_P.png)**
+**![PPM_GD_P.png](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/blob/main/Images/PPM_GD_P.png)![TEMP_GD_P.png](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/blob/main/Images/TEMP_GD_P.png)**
