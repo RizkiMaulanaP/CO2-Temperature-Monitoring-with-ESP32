@@ -97,6 +97,8 @@ void loop()
   dht.humidity().getEvent(&humidEvent);
   humidity = humidEvent.relative_humidity;
 
+  /* Multiply to correct the sensor reading, calibrate by leaving the sensor running in open and clean environment 
+  for a few hours (ideally 24 hours), then multiply the average result by a number to obtain ~400 PPM (Average CO2 concentration in the air)*/
   int correctedPPM = mq135_sensor.getCorrectedPPM(temperature, humidity) * 3.8;
   int graph = map(correctedPPM, 0, 1000, 0, 127);
 
