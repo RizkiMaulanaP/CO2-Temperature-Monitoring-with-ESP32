@@ -34,7 +34,7 @@ This project is made to complete an assignment on Data Acquisition. The project 
 
 **![Product_Image_1.jpeg](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/blob/main/Images/Product_Image_1.jpeg)**
 
-**![Product_Image_2.jpeg](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/blob/main/Images/Product_Image_12.jpeg)**
+**![Product_Image_2.jpeg](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/blob/main/Images/Product_Image_2.jpeg)**
 
 **LabVIEW Results:**
 
