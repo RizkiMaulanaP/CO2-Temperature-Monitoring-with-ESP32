@@ -24,17 +24,22 @@ This project is made to complete an assignment on Data Acquisition. The project 
 
 &nbsp;
 
+
 **Block & Wiring Diagram:**
 
 **![Block_Diagram.jpeg](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/blob/main/Images/Block_Diagram.jpeg)**
 
 **![Wiring_Diagram.jpeg](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/blob/main/Images/Wiring_Diagram.jpeg)**
 
+
+
 **Finished Product:**
 
 **![Product_Image_1.jpeg](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/blob/main/Images/Product_Image_1.jpeg)**
 
 **![Product_Image_2.jpeg](https://github.com/RizkiMaulanaP/CO2-Temperature-Monitoring-with-ESP32/blob/main/Images/Product_Image_2.jpeg)**
+
+
 
 **LabVIEW Results:**
 
